@@ -1,1 +1,3 @@
-"# JavaWebAppCRUD" 
+# JavaWebAppCRUD 
+- Java Spring
+- HTML/CSS

@@ -1,4 +1,4 @@
-# JavaWebAppCRUD 
+# Java Web App CRUD 
 - Java Spring
 - HTML/CSS
 - SQL
